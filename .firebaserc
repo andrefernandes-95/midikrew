@@ -1,6 +1,5 @@
 {
   "projects": {
-    "default": "midikrew",
-    "staging": "midikrew-staging"
+    "default": "midikrew2"
   }
 }
